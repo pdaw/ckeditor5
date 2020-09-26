@@ -1,6 +1,6 @@
 {
-  "name": "@ckeditor/ckeditor5-mention",
-  "version": "22.0.0",
+  "name": "@pdaw/ckeditor5-mention",
+  "version": "22.0.1",
   "description": "Mention feature for CKEditor 5.",
   "keywords": [
     "ckeditor",
@@ -40,7 +40,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git",
+    "url": "git+https://github.com/pdaw/ckeditor5.git",
     "directory": "packages/ckeditor5-mention"
   },
   "files": [

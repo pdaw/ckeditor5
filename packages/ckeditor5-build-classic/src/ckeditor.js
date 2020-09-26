@@ -29,7 +29,7 @@ import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefrom
 import Table from '@ckeditor/ckeditor5-table/src/table';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation';
-import Mention from '@ckeditor/ckeditor5-mention/src/mention';
+import Mention from '@pdaw/ckeditor5-mention/src/mention';
 
 export default class ClassicEditor extends ClassicEditorBase {}
 

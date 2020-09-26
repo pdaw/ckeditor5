@@ -87,7 +87,7 @@ export default class MentionUI extends Plugin {
 		 * @param {String} feedText
 		 * @method
 		 */
-		this._requestFeedDebounced = debounce( this._requestFeed, 100 );
+		this._requestFeedDebounced = debounce( this._requestFeed, 600 );
 
 		editor.config.define( 'mention', { feeds: [] } );
 	}

@@ -1,6 +1,6 @@
 {
   "name": "@pdaw/ckeditor5-build-classic-with-mention",
-  "version": "22.0.2",
+  "version": "22.0.5",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
@@ -74,6 +74,6 @@
     "preversion": "npm run build"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-mention": "^22.0.0"
+    "@pdaw/ckeditor5-mention": "^22.0.1"
   }
 }
